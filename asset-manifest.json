@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/07-tip-calculator/static/css/main.31d6cfe0.css",
+    "main.js": "/07-tip-calculator/static/js/main.ad50568d.js",
+    "index.html": "/07-tip-calculator/index.html",
+    "main.ad50568d.js.map": "/07-tip-calculator/static/js/main.ad50568d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ad50568d.js"
+  ]
+}
